@@ -1,0 +1,10 @@
+1. Monthly Profit Growth per Sales Rep
+2. New Accounts per Sales Rep
+3. Client Retention Rate
+4. Average Profit per Account
+5. Material Types per Account
+6. Material Portfolio Diversity
+7. New Hires
+8. Profit per Material Type (Company)
+9. Profit per Material Type (Employee)
+10. Material Purchase Volume
